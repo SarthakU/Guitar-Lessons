@@ -1,6 +1,6 @@
 # Guitar-Lessons
 
-### Stairway to Heaven
+### Stairway to Heaven - Led Zeppelin
 
 * [Intro Part 1](https://www.youtube.com/watch?v=AV-0Nfslshs)
 * [Intro Part 2](https://www.youtube.com/watch?v=nTbHvh-zavI)
@@ -8,6 +8,6 @@
 * [Solo](https://www.youtube.com/watch?v=LQC8RfeeEdk)
 * [Outro](https://www.youtube.com/watch?v=3gper-jPcvk)
 
-### Blackbird
+### Blackbird - The Beatles
 
 * [Blackbird](https://www.youtube.com/watch?v=mEn2SEwZKNE)
